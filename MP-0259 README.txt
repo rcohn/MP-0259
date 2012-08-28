@@ -1,5 +1,6 @@
-
-THIS IS THE README FOR THE MP-0259 "Mini-Project" dealing with Sketchup, Ruby Plugins and Wintab Functionality. 
+THIS IS THE README FOR THE MP-0259 "Mini-Project" dealing with Sketchup, Ruby Plugins and Wintab Functionality.
+Created by: Andy Peterson
+Inherited by: Robert Cohn 
 
 There are 6 folders in the MP-0259 Folder
  
